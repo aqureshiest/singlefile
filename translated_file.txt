@@ -1,0 +1,1 @@
+# This file will contain the translated text from file2.txt
