@@ -1,4 +1,1 @@
-In the decades that followed, AI research focused on creating algorithms that could solve problems, learn from data, and make decisions. Early AI systems were rule-based and relied on pre-programmed instructions to perform tasks. However, these systems were limited in their ability to adapt to new situations or learn from experience.
-
-Translation: 
 Dans les décennies qui ont suivi, la recherche en IA s'est concentrée sur la création d'algorithmes capables de résoudre des problèmes, d'apprendre à partir de données et de prendre des décisions. Les premiers systèmes d'IA étaient basés sur des règles et reposaient sur des instructions préprogrammées pour effectuer des tâches. Cependant, ces systèmes étaient limités dans leur capacité à s'adapter à de nouvelles situations ou à apprendre de l'expérience.
